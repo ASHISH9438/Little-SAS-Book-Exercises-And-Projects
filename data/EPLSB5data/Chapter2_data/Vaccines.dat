@@ -1,0 +1,21 @@
+Diphtheria                     Saliva             34000     5000      Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes
+Haemophilus influenzae type b  Airborne droplet   2500000   386000    Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes               Yes            
+Hepatitis A                    Fecal-oral         1400000                         Yes   Yes   Yes         Yes                     Yes   Yes      
+Hepatitis B                    Bodily fluids      5700000   105000    Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes      
+Human papillomavirus           Sexual contact     493000    247000                Yes   Yes         Yes                           Yes            
+Influenza (seasonal)           Airborne droplet   4000000   370000    Yes   Yes   Yes   Yes   Yes   Yes                           Yes         Yes
+Japanese encephalitis          Mosquito           50000     15000                                                           Yes         Yes   Yes
+Measles                        Airborne           27000000  424000    Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes
+Meningococcus                  Airborne droplet             340000          Yes   Yes   Yes   Yes   Yes   Yes                     Yes   Yes      
+Mumps                          Airborne droplet   544000              Yes   Yes   Yes   Yes   Yes   Yes   Yes                     Yes   Yes      
+Pertussis                      Airborne droplet   18387000  254000    Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes
+Pneumococcus                   Airborne droplet   14500000  826000    Yes         Yes   Yes         Yes   Yes                     Yes            
+Polio                          Fecal-oral         1606                Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes
+Rotavirus                      Fecal-oral         527000                          Yes                                             Yes            
+Rubella                        Airborne droplet             196000    Yes   Yes   Yes   Yes   Yes   Yes   Yes                     Yes   Yes   Yes
+Tetanus                        Penetrating injury 251000    163000    Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes   Yes
+Tick-borne encephalitis        Tick               6000                                        Yes                                                
+Tuberculosis                   Airborne           7782000   1464000   Yes   Yes         Yes   Yes         Yes   Yes   Yes   Yes         Yes   Yes
+Typhoid fever                  Fecal-oral         22000000  216000          Yes                           Yes                                    
+Varicella                      Airborne                                           Yes               Yes   Yes                                    
+Yellow fever                   Mosquito           200000    30000                                                     Yes                        

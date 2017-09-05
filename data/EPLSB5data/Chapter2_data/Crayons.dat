@@ -1,0 +1,133 @@
+1  Almond                      #EFDECD  (239, 222, 205)  120 1998
+2  Antique Brass               #CD9575  (205, 149, 117)  120 1998
+3  Apricot                     #FDD9B5  (253, 217, 181)  24 1949
+4  Aquamarine                  #78DBE2  (120, 219, 226)  64 1958
+5  Asparagus                   #87A96B  (135, 169, 107)  96 1993
+6  Atomic Tangerine            #FFA474  (255, 164, 116)  72 1972
+7  Banana Mania                #FAE7B5  (250, 231, 181)  120 1998
+8  Beaver                      #9F8170  (159, 129, 112)  120 1998
+9  Bittersweet                 #FD7C6E  (253, 124, 110)  48 1949
+10  Black                      #000000  (0,0,0)          8 1903
+11  Blizzard Blue              #ACE5EE  (172, 229, 238)  72 1972 2003
+12  Blue                       #1F75FE  (31, 117, 254)   8 1903
+13  Blue Bell                  #A2A2D0  (162, 162, 208)  120 1998
+14  Blue Gray                  #6699CC  (102, 153, 204)  64 1958 1990
+15  Blue Green                 #0D98BA  (13, 152, 186)   16 1949
+16  Blue Violet                #7366BD  (115, 102, 189)  16 1949
+17  Blush                      #DE5D83  (222, 93, 131)   120 1998
+18  Brick Red                  #CB4154  (203, 65, 84)    48 1949
+19  Brown                      #B4674D  (180, 103, 77)   8 1903
+20  Burnt Orange               #FF7F49  (255, 127, 73)   64 1958
+21  Burnt Sienna               #EA7E5D  (234, 126, 93)   48 1949
+22  Cadet Blue                 #B0B7C6  (176, 183, 198)  64 1958
+23  Canary                     #FFFF99  (255, 255, 153)  120 1998
+24  Caribbean Green            #1CD3A2  (28, 211, 162)   120 1998
+25  Carnation Pink             #FFAACC  (255, 170, 204)  16 1949
+26  Cerise                     #DD4492  (221, 68, 146)   96 1993
+27  Cerulean                   #1DACD6  (29, 172, 214)   24 1990
+28  Chestnut                   #BC5D58  (188, 93, 88)    64 1958
+29  Copper                     #DD9475  (221, 148, 117)  64 1958
+30  Cornflower                 #9ACEEB  (154, 206, 235)  48 1949
+31  Cotton Candy               #FFBCD9  (255, 188, 217)  120 1998
+32  Dandelion                  #FDDB6D  (253, 219, 109)  24 1990
+33  Denim                      #2B6CC4  (43, 108, 196)   96 1993
+34  Desert Sand                #EFCDB8  (239, 205, 184)  120 1998
+35  Eggplant                   #6E5160  (110, 81, 96)    120 1998
+36  Electric Lime              #CEFF1D  (206, 255, 29)   80 1990
+37  Fern                       #71BC78  (113, 188, 120)  120 1998
+38  Forest Green               #6DAE81  (109, 174, 129)  64 1958
+39  Fuchsia                    #C364C5  (195, 100, 197)  80 1990
+40  Fuzzy Wuzzy                #CC6666  (204, 102, 102)  120 1998
+41  Gold                       #E7C697  (231, 198, 151)  48 1949
+42  Goldenrod                  #FCD975  (252, 217, 117)  64 1958
+43  Granny Smith Apple         #A8E4A0  (168, 228, 160)  96 1993
+44  Gray                       #95918C  (149, 145, 140)  24 1949
+45  Green                      #1CAC78  (28, 172, 120)   8 1903
+46  Green Blue                 #1164B4  (17, 100, 180)   48 1949 1990
+47  Green Yellow               #F0E891  (240, 232, 145)  24 1949
+48  Hot Magenta                #FF1DCE  (255, 29, 206)   72 1972
+49  Inchworm                   #B2EC5D  (178, 236, 93)   120 2003
+50  Indigo                     #5D76CB  (93, 118, 203)   24 2000
+51  Jazzberry Jam              #CA3767  (202, 55, 103)   120 2003
+52  Jungle Green               #3BB08F  (59, 176, 143)   80 1990
+53  Laser Lemon                #FEFE22  (254, 254, 34)   72 1972
+54  Lavender                   #FCB4D5  (252, 180, 213)  64 1958
+55  Lemon Yellow               #FFF44F  (255, 244, 79)   48 1949 1990
+56  Macaroni and Cheese        #FFBD88  (255, 189, 136)  96 1993
+57  Magenta                    #F664AF  (246, 100, 175)  48 1949
+58  Magic Mint                 #AAF0D1  (170, 240, 209)  120 1990 2003
+59  Mahogany                   #CD4A4C  (205, 74, 76)    48 1949
+60  Maize                      #EDD19C  (237, 209, 156)  48 1949 1990
+61  Manatee                    #979AAA  (151, 154, 170)  120 1998
+62  Mango Tango                #FF8243  (255, 130, 67)   120 2003
+63  Maroon                     #C8385A  (200, 56, 90)    48 1949
+64  Mauvelous                  #EF98AA  (239, 152, 170)  96 1993
+65  Melon                      #FDBCB4  (253, 188, 180)  48 1949
+66  Midnight Blue              #1A4876  (26, 72, 118)    48 1949
+67  Mountain Meadow            #30BA8F  (48, 186, 143)   120 1998
+68  Mulberry                   #C54B8C  (197, 75, 140)   64 1958 2003
+69  Navy Blue                  #1974D2  (25, 116, 210)   64 1958
+70  Neon Carrot                #FFA343  (255, 163, 67)   80 1990
+71  Olive Green                #BAB86C  (186, 184, 108)  48 1949
+72  Orange                     #FF7538  (255, 117, 56)   8 1903
+73  Orange Red                 #FF2B2B  (255, 43, 43)    48 1949 1990
+74  Orange Yellow              #F8D568  (248, 213, 104)  48 1949 1990
+75  Orchid                     #E6A8D7  (230, 168, 215)  48 1949
+76  Outer Space                #414A4C  (65, 74, 76)     120 1998
+77  Outrageous Orange          #FF6E4A  (255, 110, 74)   72 1972
+78  Pacific Blue               #1CA9C9  (28, 169, 201)   96 1993
+79  Peach                      #FFCFAB  (255, 207, 171)  48 1949
+80  Periwinkle                 #C5D0E6  (197, 208, 230)  48 1949
+81  Piggy Pink                 #FDDDE6  (253, 221, 230)  120 1998
+82  Pine Green                 #158078  (21, 128, 120)   48 1949
+83  Pink Flamingo              #FC74FD  (252, 116, 253)  120 1998
+84  Pink Sherbert              #F78FA7  (247, 143, 167)  120 1998
+85  Plum                       #8E4585  (142, 69, 133)   64 1958
+86  Purple Heart               #7442C8  (116, 66, 200)   120 1998
+87  Purple Mountain's Majesty  #9D81BA  (157, 129, 186)  96 1993
+88  Purple Pizzazz             #FE4EDA  (254, 78, 218)   80 1990
+89  Radical Red                #FF496C  (255, 73, 108)   80 1990
+90  Raw Sienna                 #D68A59  (214, 138, 89)   64 1958
+91  Raw Umber                  #714B23  (113, 75, 35)    64 1958 1990
+92  Razzle Dazzle Rose         #FF48D0  (255, 72, 208)   80 1990
+93  Razzmatazz                 #E3256B  (227, 37, 107)   96 1993
+94  Red                        #EE204D  (238,32, 77 )    8 1903
+95  Red Orange                 #FF5349  (255, 83, 73)    16 1949
+96  Red Violet                 #C0448F  (192, 68, 143)   16 1949
+97  Robin's Egg Blue           #1FCECB  (31, 206, 203)   96 1993
+98  Royal Purple               #7851A9  (120, 81, 169)   96 1990
+99  Salmon                     #FF9BAA  (255, 155, 170)  48 1949
+100  Scarlet                   #FC2847  (252, 40, 71)    24 1998
+101  Screamin' Green           #76FF7A  (118, 255, 122)  72 1972
+102  Sea Green                 #9FE2BF  (159, 226, 191)  48 1949
+103  Sepia                     #A5694F  (165, 105, 79)   64 1958
+104  Shadow                    #8A795D  (138, 121, 93)   120 1998
+105  Shamrock                  #45CEA2  (69, 206, 162)   96 1993
+106  Shocking Pink             #FB7EFD  (251, 126, 253)  72 1972
+107  Silver                    #CDC5C2  (205, 197, 194)  48 1949
+108  Sky Blue                  #80DAEB  (128, 218, 235)  64 1958
+109  Spring Green              #ECEABE  (236, 234, 190)  48 1949
+110  Sunglow                   #FFCF48  (255, 207, 72)   80 1990
+111  Sunset Orange             #FD5E53  (253, 94, 83)    120 1998
+112  Tan                       #FAA76C  (250, 167, 108)  48 1949
+113  Teal Blue                 #18A7B5  (24, 167, 181)   80 1990 2003
+114  Thistle                   #EBC7DF  (235, 199, 223)  48 1949 2000
+115  Tickle Me Pink            #FC89AC  (252, 137, 172)  96 1993
+116  Timberwolf                #DBD7D2  (219, 215, 210)  96 1993
+117  Tropical Rain Forest      #17806D  (23, 128, 109)   96 1993
+118  Tumbleweed                #DEAA88  (222, 170, 136)  96 1993
+119  Turquoise Blue            #77DDE7  (119, 221, 231)  48 1949
+120  Unmellow Yellow           #FFFF66  (255, 255, 102)  80 1990
+121  Violet (Purple)           #926EAE  (146, 110, 174)  8 1903
+122  Violet Blue               #324AB2  (50, 74, 178)    48 1949 1990
+123  Violet Red                #F75394  (247, 83, 148)   24 1949
+124  Vivid Tangerine           #FFA089  (255, 160, 137)  80 1990
+125  Vivid Violet              #8F509D  (143, 80, 157)   120 1998
+126  White                     #FFFFFF  (255, 255, 255)  24 1949
+127  Wild Blue Yonder          #A2ADD0  (162, 173, 208)  120 2003
+128  Wild Strawberry           #FF43A4  (255, 67, 164)   80 1990
+129  Wild Watermelon           #FC6C85  (252, 108, 133)  72 1972
+130  Wisteria                  #CDA4DE  (205, 164, 222)  96 1993
+131  Yellow                    #FCE883  (252, 232, 131)  8 1903
+132  Yellow Green              #C5E384  (197, 227, 132)  24 1949
+133  Yellow Orange             #FFAE42  (255, 174, 66)   24 1949
