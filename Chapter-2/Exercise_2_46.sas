@@ -1,6 +1,6 @@
 * Note: BigCompanies.dat contains a total of 100 observations and 6 variables. ;
 * Had to find a solution to convertingbecause COMPRESS() is not covered in chapter 2 of TLSB5 ;
-* 
+
 
 DATA companies;
 	INFILE "U:/Little-SAS-Book-Exercises-And-Projects/data/EPLSB5data/Chapter2_data/BigCompanies.dat";
