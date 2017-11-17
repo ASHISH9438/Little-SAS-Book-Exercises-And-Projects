@@ -20,17 +20,30 @@ DATA donations_fill;
 	address = _address;
 	city = _city;
 	zip = _zip;
-	
-	FORMAT month MONNAME.;
 
 	DROP _:;
 RUN;
 
 PROC MEANS data = donations_fill NOPRINT; 
 	VAR amount ;
-	BY id month;
+	BY id first last address city zip month;
 	OUTPUT OUT = donations_summary
 				sum(amount)=;
+RUN;
+
+DATA _NULL_;
+	SET donations_summary;
+	FILE "U:\Little-SAS-Book-Exercises-And-Projects\data\EPLSB5data\Chapter4_data\Donations_Summary.txt" PRINT;
+	TITLE;
+	PUT @5 "To: " first " " last /
+	    @5 address /
+	    @5 city " " zip //
+
+	    @5 "Thank you for your support!  Your donations help us save hundreds of cats and dogs each year" //
+		@5 "Donations to Coastal Humane Society" /
+		@5 "(Tax ID: 99-5551212)" /
+		@5 month " " amount // ;
+
 RUN;
 
 
