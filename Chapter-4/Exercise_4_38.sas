@@ -20,6 +20,18 @@ DATA donations_fill;
 	address = _address;
 	city = _city;
 	zip = _zip;
+	
+	FORMAT month MONNAME.;
 
 	DROP _:;
 RUN;
+
+PROC MEANS data = donations_fill NOPRINT; 
+	VAR amount ;
+	BY id month;
+	OUTPUT OUT = donations_summary
+				sum(amount)=;
+RUN;
+
+
+
