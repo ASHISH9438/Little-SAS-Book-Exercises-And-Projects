@@ -54,6 +54,7 @@ PROC PRINT data = ch5.crayons;
 RUN;
 ODS RTF CLOSE;
 
+* Part E - Save Part A as PDF.;
 ODS PDF FILE = "U:\crayons.pdf";
 ODS NOPROCTITLE;
 PROC FREQ data = ch5.crayons;
