@@ -25,15 +25,31 @@ data grade6_merge;
 	agediff = dob - grade6dob;
 run;
 
-/* part d - calculate number of younger and older siblings of each 6th grader */
+/* part d - calculate number of younger and older siblings of each 6th grader 
+and add back to the subset of just 6th graders
+Note: family_id is not needed in a BY statement because the variable is already
+present in a TABLES statement. */
 proc freq data = grade6_merge noprint;
-	by family_id;
-	where agediff > 0;
+	where agediff < 0;
 	tables family_id / out = older_freq(drop = percent rename = (COUNT = NumOlderSiblings));
 run;
 
 proc freq data = grade6_merge noprint;
-	by family_id;
-	where agediff < 0;
+	where agediff > 0;
 	tables family_id / out = younger_freq(drop = percent rename = (COUNT = NumYoungerSiblings));
+run;
+
+data grade6_siblings_freq(drop = grade6dob agediff);
+	merge grade6_merge older_freq younger_freq;
+	by family_id;
+	gradecount = 1;
+	if grade = "6th";
+run;
+
+/* Compute the number of 6th graders, younger siblings, and older siblings by
+school.  Display the label for each school in output */
+proc tabulate data = grade6_siblings_freq;
+	class school;
+	var numoldersiblings numyoungersiblings gradecount;
+	table school , sum*(gradecount="Total 6th Graders" numoldersiblings="# Older Siblings" numyoungersiblings="# Younger Siblings");
 run;
